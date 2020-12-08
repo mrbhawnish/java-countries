@@ -2,6 +2,8 @@
 
 A student that completes this project shows that they can:
 
+
+
 * Use IntelliJ in the following areas: application creation, code entry, and code execution
 * Explain the uses of and differences between Maven, Spring, and Tomcat
 * Build a REST service using Spring Boot
